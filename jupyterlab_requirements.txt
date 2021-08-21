@@ -1,0 +1,5 @@
+@jupyter-widgets/jupyterlab-manager@2.0.0
+ipyvolume@0.5.2
+jupyter-matplotlib@0.8.3
+jupyter-threejs@2.3.0
+jupyterlab-datawidgets@7.0.0
